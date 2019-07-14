@@ -1,8 +1,15 @@
 #title {
   background-color: #ff4c68;
+  color: #fff;
+
+
 }
 
-h1 {
+body {
+  font-family: "Montserrat";
+}
+
+h1 {  
   font-family: "Montserrat";
   font-size: 3rem;
   font-weight: 900;

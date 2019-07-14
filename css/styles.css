@@ -1,19 +1,22 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
+}
 
-
+#phone-img {
+  transform: rotate(20deg);
 }
 
 body {
   font-family: "Montserrat";
 }
 
-h1 {  
+h1 {
   font-family: "Montserrat";
   font-size: 3rem;
   font-weight: 900;
   line-height:1.5;
+  margin-bottom: 20px;
 }
 
 .container-fluid {

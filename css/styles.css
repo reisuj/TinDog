@@ -134,6 +134,37 @@ h2 {
   padding: 3% 2%;
 }
 
+/* Call to Action Section */
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-h3 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+
+/* Footer Section */
+
+#footer {
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.footer-icon {
+  margin: 10px;
+}
+
+/* Media Quieries */
+
 @media (max-width: 991px) {
 
   #title {
